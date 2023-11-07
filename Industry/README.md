@@ -16,7 +16,6 @@
 - **sklearn.metrics**
 - **sklearn.experimental**
 - **sklearn.model_selection**
-- **sklearn.metrics**
 - **lightgbm**
 - **sklearn.linear_model**
 - **sklearn.preprocessing**
